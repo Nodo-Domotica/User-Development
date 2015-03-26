@@ -10,6 +10,6 @@ Deze repository bevat bijdragen van gebruikers en is bedoeld om eindgebruikers v
 
 4. Houdt er rekening mee dat de bijdragen openbaar zijn en anderen ook aanpassingen kunnen maken. Als je zelf een Nodo-gebaseerd project start van enige omvang is het zeker te overwegen een eigen GitHub account en repository aan te maken.
 
-5. Laat het weten...! Heb je goede ideeën, mooie bijdragen, tips, zorgen of wat dan ook, neem dan contact met ons op zodat wij kunnen meedenken!
+5. Laat het weten...! Heb je goede ideeën, mooie bijdragen, tips, zorgen of wat dan ook, neem dan contact met ons op zodat wij kunnen meedenken! Discussie voeren we op ons forum: http://www.nodo-domotica.nl/forum/viewforum.php?f=40
 
 Succes!
